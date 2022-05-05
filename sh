@@ -1,6 +1,6 @@
 npm run build
+heroku create web-store-react
 npm i -g heroku
-heroku remote add heroku
 git remote -v
 git add .
 git commit -m "init"
